@@ -1,4 +1,4 @@
-package period8Graphics;
+package period8Graphics;//this is a comment from a browser
 
 import java.awt.Graphics2D;
 import java.awt.image.BufferedImage;
